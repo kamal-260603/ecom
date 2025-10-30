@@ -33,7 +33,7 @@ Users can browse products, add items to cart, and checkout securely.
 ![Cart Screenshot](./screenshots/cart.png)
 
 ### 💳 Checkout Page
-![receipt Screenshot](./screenshots/checkout.png)
+![receipt Screenshot](./screenshots/receipt.png)
 
 ## ⚙️ Setup Instructions
 
