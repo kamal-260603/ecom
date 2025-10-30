@@ -6,7 +6,6 @@ Users can browse products, add items to cart, and checkout securely.
 ---
 
 ## 🚀 Features
-- 🔐 User authentication (JWT)
 - 🛒 Add / remove products from cart
 - 💳 Checkout flow with order summary
 - 🗄️ MongoDB-based backend with Express API
